@@ -31,7 +31,7 @@ public class App extends Application {
     public void start(Stage stage) {
 
         // TITLE IN STAGE
-        stage.setTitle("CHECKBOX - RADIOBUTTONS - SLIDDER");
+        stage.setTitle(" TEXT EDITOR");
 
         // ICON
         Image icon = new Image(getClass().getResourceAsStream("colors.png"));
